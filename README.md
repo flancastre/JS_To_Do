@@ -1,2 +1,3 @@
 # JS_To_Do
-Mini projet Todo en vanilla JS
+V1 Mini projet Todo en vanilla JS
+Amélioration a venir
